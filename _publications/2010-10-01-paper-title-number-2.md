@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Low and high dimensional wavelet thresholds for matrix-variate normal distribution"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2024-03-04-low-high-dimensional-wavelet
+excerpt: 'Introduced a wavelet shrinkage estimator based on Stein’s unbiased risk estimate (SURE) threshold for matrix-variate normal distribution. '
+date: 2024-03-04
+venue: 'Communications in Statistics-Simulation and Computation'
+paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/03610918.2024.2326595'
+citation: 'Low and high dimensional wavelet thresholds for matrix-variate normal distribution
+H Karamikabir, A Sanati, GG Hamedani - Communications in Statistics-Simulation and …, 2025'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The matrix-variate normal distribution is a probability distribution that is a generalization of the multivariate normal distribution to matrix-valued random variables. In this paper, we introduce a wavelet shrinkage estimator based on Stein’s unbiased risk estimate (SURE) threshold for matrix-variate normal distribution. We find a new SURE threshold for soft thresholding wavelet shrinkage estimator under the reflected normal balanced loss function in low and high dimensional cases. Also, we obtain the restricted wavelet shrinkage estimator based on non-negative sub matrix of the mean matrix. Finally, we present a simulation study to test the validity of the wavelet shrinkage estimator and two real examples for low and high dimensional data sets.
